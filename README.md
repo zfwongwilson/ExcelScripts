@@ -1,8 +1,7 @@
 # ExcelScripts
 Collection of Useful Excel VBA scripts
 
-
-""" 
+ 
 Script to split multiple worksheets in a workbook into separate Excel files
 
 Credit to https://superuser.com/users/239751/hrvoj3e for this wonderful solution found in https://superuser.com/questions/561923/how-can-one-split-an-excel-xlsx-file-that-contains-multiple-sheets-into-sep
@@ -24,4 +23,3 @@ Credit to https://superuser.com/users/239751/hrvoj3e for this wonderful solution
         
     End Sub
 
-"""
