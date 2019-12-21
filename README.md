@@ -27,7 +27,7 @@ Credit to https://superuser.com/users/239751/hrvoj3e for this wonderful solution
 
 Credit to me.
 
-  =119-LEFT(CELL,2)
+    =119-LEFT(CELL,2)
   
 119 refers to the current year 2019. Change accordingly based on the year of calculation. (e.g. for year 2020 it would be 120)
 
@@ -35,7 +35,7 @@ Credit to me.
 
 Credit to me.
 
-  =MID(CELL,8,2)
+    =MID(CELL,8,2)
   
 For NRIC without dashes, use 7 instead of 8.
 
