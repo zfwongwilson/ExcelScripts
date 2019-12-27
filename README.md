@@ -25,15 +25,11 @@ Credit to https://superuser.com/users/239751/hrvoj3e for this wonderful solution
 
 ### Excel formula to extract age from Malaysian NRIC ###
 
-Credit to me.
-
     =119-LEFT(CELL,2)
   
 119 refers to the current year 2019. Change accordingly based on the year of calculation. (e.g. for year 2020 it would be 120)
 
 ### Excel formula to extract state code from Malaysian NRIC ###
-
-Credit to me.
 
     =MID(CELL,8,2)
   
